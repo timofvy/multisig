@@ -1,0 +1,4 @@
+rpc_url=https://eth-sepolia.g.alchemy.com/v2/{тут ваш личный ключ}
+safe_proxy_factory=0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67
+safe=0x41675C099F32341bf84BFc5382aF534df5C7461a
+private_key={тут ваш личный приватный ключ}
